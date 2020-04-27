@@ -4,7 +4,7 @@ metadata:
   name: result-service
   labels:
     name: result-service
-    app: demo-voting-app
+    app: demo-result-app
 spec:
   type: LoadBalancer
   ports:
